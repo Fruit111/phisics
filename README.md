@@ -17,13 +17,13 @@ quasar dev
 ### Lint the files
 
 ```bash
-npm run lint
+#npm run lint
 ```
 
 ### Format the files
 
 ```bash
-npm run format
+#npm run format
 ```
 
 ### Build the app for production
